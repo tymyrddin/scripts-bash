@@ -1,4 +1,4 @@
-# Bash/shell/batch scripts
+# Bash/shell scripts
 
 Some scripting network hacks and network system administration for practising with Bash the non-boring way in a familiar domain (or vv).
 
